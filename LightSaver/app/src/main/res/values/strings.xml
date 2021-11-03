@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LightSaver</string>
+    <string name="notif">Notification</string>
+    <string name="button_on">TURN OFF</string>
+    <string name="button_off">TURN ON</string>
+    <string name="bright">Bright</string>
+    <string name="button">Light</string>
+    <string name="color">Color</string>
+</resources>

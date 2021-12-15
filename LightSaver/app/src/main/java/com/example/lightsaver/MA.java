@@ -17,7 +17,7 @@ import com.google.android.material.slider.RangeSlider;
 import com.google.android.material.slider.Slider;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MA extends AppCompatActivity {
     int isOn = 0;
     double bright = 2.0;
     String color = "";
@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.am);
 
         final ToggleButton toggle = (ToggleButton) findViewById(R.id.toggleButton);
         Switch notifLight = (Switch) findViewById(R.id.switch1);
